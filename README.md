@@ -1,4 +1,4 @@
-# Algorithm and Data structure basic
+# Basic Algorithm and Data structure
 [![Generic badge](https://img.shields.io/badge/<Purpose>-<Revise>-<COLOR>.svg)](https://shields.io/)
 
 ## Summary(Eng)
